@@ -100,7 +100,7 @@ For each model, the following metrics were calculated:
 
 #Deployment
 
-Streamlit App Link: (https://mazrhvybviki8dlnvwxmwj.streamlit.app/
+Streamlit App Link: (https://mazrhvybviki8dlnvwxmwj.streamlit.app/ and 
 http://localhost:8501/)
 
 GitHub Repository Link: (https://github.com/2025aa05170-pavan/ml_assignment_2.git)
